@@ -191,3 +191,9 @@ TW_DEFAULT_BRIGHTNESS := 127
 # TWRP Configuration: Logd
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+############################
+######## PBRP FLAGS ########
+############################
+
+PB_TORCH_PATH := /sys/class/leds/flashlight
